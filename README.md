@@ -6,7 +6,8 @@ This is an empty IG
 ### Publication
 This ImplementationGuide is published in the following locations:
 
-Continuous Build: __http://build.fhir.org/ig/openhie/fhir-ig-empty/branches/main/index.html__  
+Continuous Build: __http://build.fhir.org/ig/IHE/<repository>__  
+Continuous Build: __http://ihe.github.io/<repository>__  
 Canonical / permanent URL: 
 <br> </br>
 
